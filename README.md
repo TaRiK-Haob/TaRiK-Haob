@@ -24,7 +24,7 @@ I'm a passionate developer with an interest in [mention your areas of interest, 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaRiK-Haob&layout=compact&theme=radical)
 
 ## Contact Me
-- Email: [1160280151@qq.com](mailto:1160280151@qq.com)
+- Email: [1160280151@qq.com](mailto:1160280151@qq.com) [jiahaohuang@e.edu.gzhu.cn](mailto:jiahaohuang@e.edu.gzhu.cn)
 <!--
 ## Projects
 Here are some of my projects:
