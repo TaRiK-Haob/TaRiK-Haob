@@ -33,15 +33,21 @@ Currently exploring how to combine **AI agents + security systems + real-world d
 - 🤖 Multi-agent systems for security automation
 
 ## 📊 GitHub Stats
+
+<a href="https://pixel-profile.vercel.app/api/github-stats?username=TaRiK-Haob">
+  <img height=250 alt="github stats" align="center" src="https://pixel-profile.vercel.app/api/github-stats?username=TaRiK-Haob&theme=road_trip&pixelate_avatar=true">
+</a>
 <a href="https://gitfut.com/TaRiK-Haob?country=cn">
   <img src="https://gitfut.com/TaRiK-Haob.png" align="center" alt="TaRiK-Haob" width="200">
 </a>
-<a href="https://github-stats-extended.vercel.app/api?username=TaRiK-Haob">
+<!-- <a href="https://github-stats-extended.vercel.app/api?username=TaRiK-Haob">
   <img height=150 align="center" src="https://github-stats-extended.vercel.app/api?username=TaRiK-Haob&show_icons=true&theme=radical" />
 </a>
 <a href="https://github-stats-extended.vercel.app/api/top-langs?username=TaRiK-Haob&layout=compact&langs_count=8&card_width=320">
   <img height=150 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=TaRiK-Haob&layout=compact&langs_count=8&card_width=320?&theme=radical" />
-</a>
+</a> -->
+
+
 
 ## 📫 Contact Me
 📧 Email:
