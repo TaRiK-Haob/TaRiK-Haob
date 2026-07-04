@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi there, I'm TaRiK-Haob 👋
 > AI Systems Engineer | Security × Machine Learning × Intelligent Agents
 <a href="https://pixel-profile.vercel.app/api/github-stats?username=TaRiK-Haob">
-  <img height=250 alt="github stats" align="center" src="https://pixel-profile.vercel.app/api/github-stats?username=TaRiK-Haob&theme=road_trip&pixelate_avatar=true">
+  <img height=200 alt="github stats" align="center" src="https://pixel-profile.vercel.app/api/github-stats?username=TaRiK-Haob&theme=road_trip&pixelate_avatar=true">
 </a>
 <a href="https://gitfut.com/TaRiK-Haob?country=cn">
   <img src="https://gitfut.com/TaRiK-Haob.png" align="center" alt="TaRiK-Haob" width="200">
