@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 I'm a passionate developer with an interest in ai4security and security4ai.
 
 <a href="https://github-stats-extended.vercel.app/api?username=TaRiK-Haob">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=TaRiK-Haob&show_icons=true&theme=radical" />
+  <img height=150 align="center" src="https://github-stats-extended.vercel.app/api?username=TaRiK-Haob&show_icons=true&theme=radical" />
 </a>
 <a href="https://github-stats-extended.vercel.app/api/top-langs?username=TaRiK-Haob&layout=compact&langs_count=8&card_width=320">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=TaRiK-Haob&layout=compact&langs_count=8&card_width=320?&theme=radical" />
+  <img height=150 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=TaRiK-Haob&layout=compact&langs_count=8&card_width=320?&theme=radical" />
+</a>
+<a href="https://gitfut.com/TaRiK-Haob?country=cn">
+<img src="https://gitfut.com/TaRiK-Haob.png" alt="TaRiK-Haob" width="100">
 </a>
 
 ## Contact Me
