@@ -13,9 +13,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there, I'm TaRiK-Haob 👋
+> AI Security / Security for AI | Builder of intelligent systems
+
+---
 
 ## About Me
-I'm a passionate developer with an interest in ai4security and security4ai.
+I'm a developer focused on **AI4Security & Security4AI**, interested in:
+
+- Adversarial machine learning & secure AI systems  
+- Network traffic analysis & encrypted traffic classification  
+- LLM-based agents and security applications  
+- Graph learning + contrastive learning in security scenarios  
+
+Currently exploring how to combine **AI agents + security systems + real-world deployment**.
+
+---
+## 🧠 Current Interests
+
+- 🔐 AI-driven security systems
+- 📊 Encrypted traffic classification with deep learning
+- 🧩 Graph contrastive learning for robust representations
+- 🤖 Multi-agent systems for security automation
 
 <a href="https://gitfut.com/TaRiK-Haob?country=cn">
   <img src="https://gitfut.com/TaRiK-Haob.png" align="center" alt="TaRiK-Haob" width="200">
@@ -34,7 +52,7 @@ Email:
 - [shi1160280151@gmail.com](mailto:shi1160280151@gmail.com)
 - [jiahaohuang2000@foxmail.com](mailto:jiahaohuang2000@foxmail.com)
 
-## Gitfut
+
 <!--
 [![My GitFut card](https://gitfut.com/TaRiK-Haob.png)](https://gitfut.com/TaRiK-Haob?country=cn)
 -->
