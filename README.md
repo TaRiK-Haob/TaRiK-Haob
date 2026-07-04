@@ -29,6 +29,8 @@ I'm a passionate developer with an interest in ai4security and security4ai.
 ## Gitfut
 [![My GitFut card](https://gitfut.com/TaRiK-Haob.png)](https://gitfut.com/TaRiK-Haob?country=cn)
 
+<img src="https://gitfut.com/TaRiK-Haob.png" alt="Description" width="300" height="200">
+
 <!--
 ## Projects
 Here are some of my projects:
