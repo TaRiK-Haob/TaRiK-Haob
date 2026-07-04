@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 # Hi there, I'm TaRiK-Haob 👋
 > AI Security / Security for AI | Builder of intelligent systems
 
----
-
-## About Me
+## 👨‍💻 About Me
 I'm a developer focused on **AI4Security & Security4AI**, interested in:
 
 - Adversarial machine learning & secure AI systems  
@@ -27,7 +25,6 @@ I'm a developer focused on **AI4Security & Security4AI**, interested in:
 
 Currently exploring how to combine **AI agents + security systems + real-world deployment**.
 
----
 ## 🧠 Current Interests
 
 - 🔐 AI-driven security systems
@@ -35,6 +32,7 @@ Currently exploring how to combine **AI agents + security systems + real-world d
 - 🧩 Graph contrastive learning for robust representations
 - 🤖 Multi-agent systems for security automation
 
+## 📊 GitHub Stats
 <a href="https://gitfut.com/TaRiK-Haob?country=cn">
   <img src="https://gitfut.com/TaRiK-Haob.png" align="center" alt="TaRiK-Haob" width="200">
 </a>
@@ -45,8 +43,8 @@ Currently exploring how to combine **AI agents + security systems + real-world d
   <img height=150 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=TaRiK-Haob&layout=compact&langs_count=8&card_width=320?&theme=radical" />
 </a>
 
-## Contact Me
-Email:
+## 📫 Contact Me
+📧 Email:
 - [1160280151@qq.com](mailto:1160280151@qq.com)
 - [jiahaohuang@e.edu.gzhu.cn](mailto:jiahaohuang@e.edu.gzhu.cn)
 - [shi1160280151@gmail.com](mailto:shi1160280151@gmail.com)
