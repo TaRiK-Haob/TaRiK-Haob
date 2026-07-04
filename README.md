@@ -20,14 +20,12 @@ I'm a passionate developer with an interest in ai4security and security4ai.
 <a href="https://gitfut.com/TaRiK-Haob?country=cn">
   <img src="https://gitfut.com/TaRiK-Haob.png" align="center" alt="TaRiK-Haob" width="200">
 </a>
-<div>
 <a href="https://github-stats-extended.vercel.app/api?username=TaRiK-Haob">
   <img height=150 align="center" src="https://github-stats-extended.vercel.app/api?username=TaRiK-Haob&show_icons=true&theme=radical" />
 </a>
 <a href="https://github-stats-extended.vercel.app/api/top-langs?username=TaRiK-Haob&layout=compact&langs_count=8&card_width=320">
   <img height=150 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=TaRiK-Haob&layout=compact&langs_count=8&card_width=320?&theme=radical" />
 </a>
-</div>
 
 ## Contact Me
 Email:
