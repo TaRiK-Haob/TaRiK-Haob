@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 ## About Me
 I'm a passionate developer with an interest in ai4security and security4ai.
 
-<div align="center" style="margin: 20px 0">
-  <img src="https://picsum.photos/400/300" width="45%" alt="左图">
-  <img src="https://picsum.photos/400/300" width="45%" alt="右图">
-</div>
-
 <a href="https://github-stats-extended.vercel.app/api?username=TaRiK-Haob">
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=TaRiK-Haob" />
 </a>
