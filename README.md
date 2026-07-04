@@ -24,7 +24,7 @@ I'm a passionate developer with an interest in ai4security and security4ai.
   <img height=150 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=TaRiK-Haob&layout=compact&langs_count=8&card_width=320?&theme=radical" />
 </a>
 <a href="https://gitfut.com/TaRiK-Haob?country=cn">
-<img src="https://gitfut.com/TaRiK-Haob.png" alt="TaRiK-Haob" width="100">
+  <img src="https://gitfut.com/TaRiK-Haob.png" align="center" alt="TaRiK-Haob" width="200">
 </a>
 
 ## Contact Me
