@@ -27,9 +27,9 @@ I'm a passionate developer with an interest in ai4security and security4ai.
 - Email: [1160280151@qq.com](mailto:1160280151@qq.com) [jiahaohuang@e.edu.gzhu.cn](mailto:jiahaohuang@e.edu.gzhu.cn) [shi1160280151@gmail.com](mailto:shi1160280151@gmail.com) [jiahaohuang2000@foxmail.com](mailto:jiahaohuang2000@foxmail.com)
 
 ## Gitfut
-[![My GitFut card](https://gitfut.com/TaRiK-Haob.png)](https://gitfut.com/TaRiK-Haob?country=cn)
+[![My GitFut card](https://gitfut.com/TaRiK-Haob.png =300x)](https://gitfut.com/TaRiK-Haob?country=cn)
 
-<img src="https://gitfut.com/TaRiK-Haob.png" alt="Description" width="300" height="200">
+<!-- <img src="https://gitfut.com/TaRiK-Haob.png" alt="Description" width="300" height="200"> -->
 
 <!--
 ## Projects
