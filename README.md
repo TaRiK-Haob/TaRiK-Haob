@@ -17,17 +17,18 @@ Here are some ideas to get you started:
 ## About Me
 I'm a passionate developer with an interest in ai4security and security4ai.
 
-## Gitfut
-[![My GitFut card](https://gitfut.com/TaRiK-Haob.png)](https://gitfut.com/TaRiK-Haob)
-
 ## GitHub Stats
-![TaRiK-Haob's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaRiK-Haob&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=TaRiK-Haob)](https://github.com/stats-organization/github-stats-extended)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaRiK-Haob&layout=compact&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=TaRiK-Haob&layout=compact&theme=radical)
 
 ## Contact Me
 - Email: [1160280151@qq.com](mailto:1160280151@qq.com) [jiahaohuang@e.edu.gzhu.cn](mailto:jiahaohuang@e.edu.gzhu.cn) [shi1160280151@gmail.com](mailto:shi1160280151@gmail.com) [jiahaohuang2000@foxmail.com](mailto:jiahaohuang2000@foxmail.com)
+
+## Gitfut
+![My GitFut card](https://gitfut.com/TaRiK-Haob.png)](https://gitfut.com/TaRiK-Haob?country=cn)
+
 <!--
 ## Projects
 Here are some of my projects:
