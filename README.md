@@ -17,11 +17,17 @@ Here are some ideas to get you started:
 ## About Me
 I'm a passionate developer with an interest in ai4security and security4ai.
 
-## GitHub Stats
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=TaRiK-Haob)](https://github.com/stats-organization/github-stats-extended)
+<div align="center" style="margin: 20px 0">
+  <img src="https://picsum.photos/400/300" width="45%" alt="左图">
+  <img src="https://picsum.photos/400/300" width="45%" alt="右图">
+</div>
 
-## Top Languages
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=TaRiK-Haob&layout=compact&theme=radical)
+<a href="https://github-stats-extended.vercel.app/api?username=TaRiK-Haob">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=TaRiK-Haob" />
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=TaRiK-Haob&layout=compact&langs_count=8&card_width=320">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=TaRiK-Haob&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## Contact Me
 - Email: [1160280151@qq.com](mailto:1160280151@qq.com) [jiahaohuang@e.edu.gzhu.cn](mailto:jiahaohuang@e.edu.gzhu.cn) [shi1160280151@gmail.com](mailto:shi1160280151@gmail.com) [jiahaohuang2000@foxmail.com](mailto:jiahaohuang2000@foxmail.com)
@@ -30,7 +36,9 @@ I'm a passionate developer with an interest in ai4security and security4ai.
 <!--
 [![My GitFut card](https://gitfut.com/TaRiK-Haob.png)](https://gitfut.com/TaRiK-Haob?country=cn)
 -->
-<img src="https://gitfut.com/TaRiK-Haob.png" alt="Description" width="300" ref="https://gitfut.com/TaRiK-Haob?country=cn">
+<a href="https://gitfut.com/TaRiK-Haob?country=cn">
+<img src="https://gitfut.com/TaRiK-Haob.png" alt="TaRiK-Haob" width="300">
+</a>
 
 <!--
 ## Projects
