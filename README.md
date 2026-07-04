@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 ## About Me
 I'm a passionate developer with an interest in ai4security and security4ai.
 
+## Gitfut
+[![My GitFut card](https://gitfut.com/TaRiK-Haob.png)](https://gitfut.com/TaRiK-Haob)
+
 ## GitHub Stats
 ![TaRiK-Haob's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaRiK-Haob&show_icons=true&theme=radical)
 
